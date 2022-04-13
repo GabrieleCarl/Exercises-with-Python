@@ -1,0 +1,16 @@
+{
+    "prodotti": 100,
+    "valore_totale": 1247.5,
+    "taglie": {
+        "S": 25,
+        "M": 25,
+        "XL": 24,
+        "L": 26
+    },
+    "colore": {
+        "bianco": 47,
+        "verde": 33,
+        "rosso": 20
+    },
+    "prezzo_medio": 12.47
+}
