@@ -1,3 +1,3 @@
 # Exercises-with-Python
 
-Programming with Python, by Profession AI
+Programming with Python, Profession AI (https://www.profession.ai/)
